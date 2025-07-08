@@ -4,7 +4,10 @@ import './App.css'
 
 function App() {
   return (
+    <>
     <h1>Hello this is my first react page. </h1>
+    <h2>this is my new feature</h2>
+    </>
   )
 }
 
